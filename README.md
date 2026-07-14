@@ -36,4 +36,4 @@ https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
 Released under the MIT License to support reproducibility.
 
 ## Citation
-If you use this code, please cite the accompanying paper (and this Zenodo deposit).
+If you use this code, please cite the accompanying paper (and this github deposit).
